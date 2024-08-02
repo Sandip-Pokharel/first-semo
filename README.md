@@ -1,3 +1,4 @@
 # first-semo
-This is first Repository
-Change
+This is first Repository. 
+First commit
+
